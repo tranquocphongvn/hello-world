@@ -7,4 +7,4 @@ added new line (Git Extensions)
 
 added new line #2 for branch_from_originmaster
 
-changed n 11:22
+changed on 11:22
